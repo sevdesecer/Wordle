@@ -1,5 +1,4 @@
 # Wordle
-Sure! Below is an example of a README for a Wordle game:
 
 ## Introduction
 
