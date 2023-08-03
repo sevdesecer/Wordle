@@ -1,10 +1,6 @@
 # Wordle
 Sure! Below is an example of a README for a Wordle game:
 
-# Wordle Game
-
-![Wordle Logo](wordle_logo.png)
-
 ## Introduction
 
 Wordle is a classic word-guessing game where players have to guess a five-letter word within a limited number of attempts. This project is a command-line version of the Wordle game, built using Python.
